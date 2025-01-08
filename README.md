@@ -35,6 +35,8 @@ When I’m not coding, you’ll often find me brainstorming new project ideas, d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="react-router logo"  />
 </div>
 
 ### 🔧 Tools
