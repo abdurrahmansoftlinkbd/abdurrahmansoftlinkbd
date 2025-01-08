@@ -28,47 +28,49 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
 
 ### **>_** Languages  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img width="12" />
 </div>
 
 ### 💻 Frontend Development  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png?v=1958511641113264352" height="40" alt="daisyui logo"  />
+  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png?v=1958511641113264352" height="40" alt="daisyui"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="react-router logo"  />
+  <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="react-router"  />
   <img width="12" />
 </div>
 
 ### 🔧 Tools & Deployment
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"  />
   <img width="12" />
-  <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase logo"  />
+  <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase"  />
   <img width="12" />
-  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/netlify.svg" height="40" alt="firebase logo"  />
+  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/netlify.svg" height="40" alt="netlify"  />
+  <img width="12" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="40" alt="vercel"  />
   <img width="12" />
 </div>
 
 ### 🖥️ Backend Development  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"  />
   <img width="12" />
 </div>
 
