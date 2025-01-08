@@ -14,9 +14,9 @@ When I’m not coding, you’ll often find me brainstorming new project ideas, d
 
 ## 🔭 Current Activities
 
-- 🌐 Exploring **Next.js** and enhancing my React expertise.
-- ✈️ Building a feature-rich **tourism website** for showcasing destinations worldwide.
-- 🛠️ Experimenting with backend tools like **Node.js** and **MongoDB**.
+- 🛠️ Learning **backend tools** like Node.js, Express.js, and MongoDB.
+- 💡 Working on **RecoHub**, a platform where users can recommend their favorite products.
+- 🚀 Expanding my full-stack development skillset by integrating frontend and backend technologies.
 
 ---
 
