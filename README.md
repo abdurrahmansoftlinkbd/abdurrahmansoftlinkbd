@@ -1,6 +1,6 @@
 # <h1 align="left">Hi there! I'm Abdur Rahman</h1>
 
-🚀 **Frontend Web Developer** | Passionate about crafting elegant and user-friendly web experiences.
+**<h4 align="left">Frontend Web Developer</h4>**
 
 ---
 
