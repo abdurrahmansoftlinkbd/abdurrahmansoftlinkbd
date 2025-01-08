@@ -4,7 +4,7 @@
 
 ---
 
-## About Me
+## <h2 align="left">About me</h2>
 
 Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creating dynamic, responsive, and visually appealing web applications. I believe in writing clean, maintainable code and continuously strive to learn and adapt to new technologies in the ever-evolving tech landscape.
 
