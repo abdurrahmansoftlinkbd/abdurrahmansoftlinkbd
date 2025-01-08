@@ -26,6 +26,12 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
 
 ## 🛠️ Skills & Tools
 
+### **>_** Languages  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
 ### 💻 Frontend Development  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -41,6 +47,7 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="react-router logo"  />
+  <img width="12" />
 </div>
 
 ### 🔧 Tools
@@ -50,6 +57,7 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
 </div>
 
 ### 🖥️ Backend Development  
@@ -59,6 +67,7 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
 </div>
 
 ---
