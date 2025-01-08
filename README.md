@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/RzDmStS/Black-Minimal-Motivation-Quote-Linked-In-Banner.png"  />
+</div>
+
+---
+
 # Hi there! I'm Abdur Rahman
 
 **Frontend Web Developer**
