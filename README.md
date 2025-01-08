@@ -1,10 +1,10 @@
-# <h1 align="left">Hi there! I'm Abdur Rahman</h1>
+# Hi there! I'm Abdur Rahman
 
-**<h4 align="left">Frontend Web Developer</h4>**
+**Frontend Web Developer**
 
 ---
 
-## <h2 align="left">About me</h2>
+## About me
 
 Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creating dynamic, responsive, and visually appealing web applications. I believe in writing clean, maintainable code and continuously strive to learn and adapt to new technologies in the ever-evolving tech landscape.
 
