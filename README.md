@@ -24,7 +24,7 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages & Tools
 
 ### **>_** Languages  
 <div align="left">
@@ -50,13 +50,15 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
   <img width="12" />
 </div>
 
-### 🔧 Tools
+### 🔧 Tools & Deployment
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/netlify.svg" height="40" alt="firebase logo"  />
   <img width="12" />
 </div>
 
