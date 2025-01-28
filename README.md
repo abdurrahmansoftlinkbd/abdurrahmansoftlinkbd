@@ -55,10 +55,6 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
   <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase"  />
   <img width="12" />
-  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/netlify.svg" height="40" alt="netlify"  />
-  <img width="12" />
-  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="40" alt="vercel"  />
-  <img width="12" />
 </div>
 
 ### 🖥️ Backend Development  
