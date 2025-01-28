@@ -49,8 +49,6 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
 
 ### 🔧 Tools & Deployment
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
-  <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase"  />
   <img width="12" />
 </div>
