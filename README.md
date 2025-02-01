@@ -20,7 +20,7 @@ Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creati
 
 - 🛠️ Learning **backend tools** like Node.js, Express.js, and MongoDB.
 - **>_** Learning **Next.js 15**
-- 💡 Working on **RecoHub**, a platform where users can recommend their favorite products.
+- 💡 Working on **Elite Estate**, a platform where users can recommend their favorite products.
 - 🚀 Expanding my full-stack development skillset by integrating frontend and backend technologies.
 
 ---
