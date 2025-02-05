@@ -20,7 +20,7 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
 
 - 🔭 I’m currently working on **Elite Estate**
 - 🌱 I’m currently learning **Next.js**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z0II2mkq1LJOqosMrxr9Vit7fbFXAGSp/view?usp=sharing](https://drive.google.com/file/d/1z0II2mkq1LJOqosMrxr9Vit7fbFXAGSp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z0II2mkq1LJOqosMrxr9Vit7fbFXAGSp/view?usp=sharing)
 
 ---
 
