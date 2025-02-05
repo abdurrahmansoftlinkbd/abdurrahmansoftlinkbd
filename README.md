@@ -43,9 +43,10 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
 
 ### 🔧 Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"  />
+  <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase"  />
   <img width="12" />
 </div>
