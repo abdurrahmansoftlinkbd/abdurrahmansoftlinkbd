@@ -20,6 +20,7 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
 
 - 🚀 I’m currently working on **Elite Estate**
 - 🌱 I’m currently learning **Next.js**
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdurrahman-softlinkbd.netlify.app)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z0II2mkq1LJOqosMrxr9Vit7fbFXAGSp/view?usp=sharing)
 
 ---
