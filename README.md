@@ -35,7 +35,7 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png?v=1957811281194784056" height="40" alt="daisyui"  />
+  <img src="https://bestofjs.org/logos/daisy.svg" height="40" alt="daisyui"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img width="12" />
