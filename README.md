@@ -41,6 +41,8 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="reactrouter"  />
+  <img width="12" />
 </div>
 
 ### 🔧 Tools
