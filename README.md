@@ -53,6 +53,8 @@ I'm Abdur Rahman, passionate about building efficient and user-friendly web solu
   <img width="12" />
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" height="40" alt="firebase"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" alt="vercel"  />
+  <img width="12" />
 </div>
 
 ### 🖥️ Backend Development  
