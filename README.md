@@ -12,7 +12,7 @@
 
 ## About me
 
-Hi! I'm Abdur Rahman, passionate about building efficient and user-friendly web solutions. I strive to learn and improve while contributing to meaningful projects. My goal is to work in a dynamic environment where I can grow professionally and make a real impact through my skills and creativity.
+I'm Abdur Rahman, passionate about building efficient and user-friendly web solutions. I strive to learn and improve while contributing to meaningful projects. My goal is to work in a dynamic environment where I can grow professionally and make a real impact through my skills and creativity.
 
 ---
 
