@@ -12,7 +12,7 @@
 
 ## About me
 
-Hi! I'm Abdur Rahman, a dedicated frontend web developer with a knack for creating dynamic, responsive, and visually appealing web applications. I believe in writing clean, maintainable code and continuously strive to learn and adapt to new technologies in the ever-evolving tech landscape.
+Hi! I'm Abdur Rahman, passionate about building efficient and user-friendly web solutions. I strive to learn and improve while contributing to meaningful projects. My goal is to work in a dynamic environment where I can grow professionally and make a real impact through my skills and creativity.
 
 ---
 
